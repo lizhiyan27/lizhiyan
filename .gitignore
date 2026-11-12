@@ -4,10 +4,11 @@ tools/
 # Third-party source checkout used only for local comparison
 reference/
 
-# Built APKs and delivery archives
-dist/
+# Built APKs and delivery archives; track only the current installable release
+dist/*
 *.apk
 *.aab
+!dist/LocationShadow-1.2.0.apk
 
 # Gradle and Android build output
 .gradle/
