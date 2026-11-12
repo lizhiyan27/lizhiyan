@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"osm_type":"R","osm_id":912940,"osm_key":"place","osm_value":"city","type":"city","name":"北京市","country":"中国","countrycode":"CN","extra":{"admin_level":"4"},"extent":[115.416849,41.059236,117.7371243,39.1707096]},"geometry":{"type":"Point","coordinates":[116.3912972,39.9057136]}}]}

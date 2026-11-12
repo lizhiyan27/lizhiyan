@@ -1,0 +1,36 @@
+# Downloaded JDK / Node / Android SDK / Gradle distributions
+tools/
+
+# Third-party source checkout used only for local comparison
+reference/
+
+# Built APKs and delivery archives
+dist/
+*.apk
+*.aab
+
+# Gradle and Android build output
+.gradle/
+**/build/
+
+# Local SDK paths and signing credentials
+local.properties
+keystore.properties
+signing/
+*.jks
+*.keystore
+
+# Large third-party analysis binary and environment logs
+analysis/osmdroid-classes.jar
+analysis/sdk-install.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.iml
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
